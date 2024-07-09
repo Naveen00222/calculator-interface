@@ -1,0 +1,25 @@
+
+h3{
+    text-align: center;
+}
+.result{
+    width: 50px;
+}
+p{
+    background-color: black;
+    color:white;
+    height:50px;
+    width: 50px;
+    text-align: center;
+}
+.container{
+    margin-top: 40px;
+    margin-left: 120px;
+    border:2px solid rgb(255, 255, 255);
+    background-color: aqua;
+    width:400px;
+    height:400px;
+}
+input{
+    width: 80%;
+}
